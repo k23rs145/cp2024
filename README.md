@@ -2,8 +2,8 @@
 
 ## Part 1
 This is README.
-- item1
-- itemAB
+- itemA
+- itemB
 
 ## Part 2
 1. sunday
